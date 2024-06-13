@@ -1,0 +1,118 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+  
+}
+.logo{
+    width: 100px;
+}
+.portrait{
+    width: 250px;
+    height: 250px;
+    margin: 20px 25px;
+}
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mes image{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+  
+}
+.publication{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-top: 10%; 
+}
+.publication img{
+    width: 130px;
+}
+.group img{
+    width: 90px;
+}
+.pied{
+    margin-top: 5%;
+}
+.group div{
+    border: 1px solid #f8f3f3; 
+    padding: 15px;
+}
+.group{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin: 35px;
+  
+}
+.image img{
+    width: 120px;
+   margin: 10px;
+ 
+}
+.partie2{
+    margin-top: 10%;
+}
+.inscrit{
+    background-color: #0000ff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+}
+.formation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10% 30px;
+}
+.bouton{
+    padding: 15px;
+    margin: 5px;
+}
+.section{
+    border: 1px solid #0000ff;
+    padding: 15px;
+}
+.voir{
+   border: none;
+    color: #0000ff;
+    padding: 10px;
+}
+nav ul li{
+    list-style: none;
+    padding: 10px;
+    font-size: 22px;
+    color: #0000ff;
+}
+.connect{
+    margin: 0px 10px;
+    background-color: #0000ff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.left h1{
+    width: 50%;
+}
+.left{
+    width: 50%;
+    margin: 35px;
+}
+.partie1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
